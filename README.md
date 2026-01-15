@@ -2,6 +2,10 @@
 
 A lightweight, functional Android calculator application built with Java and Android Studio. This project demonstrates basic UI/UX principles, event handling, and manual implementation of arithmetic logic and operator precedence.
 
+
+https://github.com/user-attachments/assets/a5714e46-1d51-4b2e-935c-267afc343673
+
+
 ## 🚀 Features
 - **Basic Arithmetic:** Supports addition, subtraction, multiplication, and division.
 - **MDAS Logic:** Implements basic order of operations (Multiplication and Division are calculated before Addition and Subtraction).
@@ -27,3 +31,4 @@ Unlike simple calculators that calculate strictly from left-to-right, this app u
 2. Open the project in **Android Studio**.
 3. Build the project and wait for Gradle synchronization.
 4. Run the app on an **Emulator** or a physical **Android Device**.
+
